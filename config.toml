@@ -1,0 +1,4 @@
+baseURL = 'http://iashyam.github.io/firstwebsite'
+languageCode = 'en-us'
+title = 'The Rest Frame'
+theme = 'blowfish'
